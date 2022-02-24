@@ -1,10 +1,14 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
-    <div>
-      <h2>Collab Compiler</h2>
-    </div>
+    <nav>
+      <ul>
+        <li>Collab Compiler</li>
+        <li>Code</li>
+        <li>Projects</li>
+      </ul>
+    </nav>
   );
 }
 
